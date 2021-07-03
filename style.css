@@ -1,0 +1,25 @@
+#heading {
+    text-align: center;
+    color: dimgray;
+}
+
+
+p {
+    color: crimson;
+}
+
+#ban {
+    background-color: rgb(11, 255, 24);
+    border: 2px solid rgb(4, 104, 0);
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 10px;
+}
+
+#pak {
+    background-color: darkorange;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 10px;
+}
